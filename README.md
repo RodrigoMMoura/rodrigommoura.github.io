@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [rodrigommoura.github.io](rodrigommoura.github.io)
 
 - 💬 Ask me about **Django**
 
